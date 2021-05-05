@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TODO_12</string>
+    <string name="donut">Donuts are glazed and sprinkled with candy.</string>
+    <string name="iceCream">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="foryo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="Name"></string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="address">Address</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="phone">phone</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="notes">Notes</string>
+    <string name="enter_notes">Enter notes</string>
+    <string name="choose_a_delivery_method">Choose a delivery Method:</string>
+    <string name="same_day_messenger_services">Same day messenger services</string>
+    <string name="next_day_ground">Next day ground</string>
+    <string name="pick_up">Pick up</string>
+    <string-array name="phone_label">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Others</item>
+    </string-array>
+</resources>
