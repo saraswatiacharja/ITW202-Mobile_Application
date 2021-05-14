@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo_17</string>
+    <string name="plus">Plus Button</string>
+    <string name="minus">Minus Button</string>
+
+    <string name="light_mode">Day Mode</string>
+    <string name="dark_mode">Night Mode</string>
+</resources>
